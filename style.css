@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&family=Poppins:wght@300;400;500;600;700&display=swap");
+
+:root {
+	--font-family-crimson: "Crimson Text", serif;
+	--font-family-poppins: "Poppins", sans-serif;
+	--font-size: clamp(1.2rem, 4.2vw, 1.4rem);
+	--line-height: 1.4;
+	--primary-color: #333333;
+	--background-color: white;
+	--border-color: #333333;
+	--hover-color: green;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: var(--font-family-crimson);
+	font-size: var(--font-size);
+	line-height: var(--line-height);
+	color: var(--primary-color);
+	background-color: var(--background-color);
+}
+
+h1 {
+	font-size: clamp(3rem, 9vw, 4rem);
+	margin-bottom: 1rem;
+	line-height: 1;
+	letter-spacing: -2px;
+	color: black;
+}
+
+h2 {
+	font-size: clamp(1.4rem, 4vw, 2rem);
+	font-family: var(--font-family-poppins);
+	margin-block: 2rem 4rem;
+	text-align: center;
+	max-width: 1000px;
+	line-height: 1.2;
+}
+
+p {
+	margin-block: 2rem;
+}
+
+a {
+	color: var(--primary-color);
+	text-decoration: none;
+	border-bottom: 4px solid var(--hover-color);
+}
+
+a:hover {
+	color: white;
+	background-color: var(--hover-color);
+}
+
+span {
+	color: #7f7f7f;
+}
+
+hr {
+	width: 36%;
+	height: 6px;
+	border: none;
+	background-color: black;
+	margin-block: 3rem 2rem;
+}
+
+main {
+	display: grid;
+	place-items: center;
+	margin: clamp(1rem, 7vw, 3rem);
+}
+
+img {
+	display: block;
+	width: 100%;
+}
+
+.img-header {
+	min-height: 280px;
+	overflow: hidden;
+	background: url("https://lh3.googleusercontent.com/pw/AIL4fc_wmOunYzI9K_zlFa6VTQ2B82Gq-YyukarG6wQQYnwDNOYAnF3Ci_Jlx2E70xOK5KZ_DeNLcil5HOibtyvDQ8RJD2BZcQH6XVlds8OrgAf1Bp7pH_ne087BcQGxEEVw0qgnZzrIQOvqYCNZCzjHMTe1=w2880-h1316-s-no?authuser=0")
+		center center/cover no-repeat;
+}
+
+figure {
+	width: 100%;
+	margin: 4rem auto;
+}
+
+figcaption {
+	font-family: var(--font-family-poppins);
+	font-weight: 600;
+	color: gray;
+	text-align: center;
+	line-height: 1.3;
+	font-size: clamp(0.6rem, 3.6vw, 0.8rem);
+	margin-top: 2rem;
+	padding-inline: clamp(1rem, 2vw, 2rem);
+}
+
+section {
+	max-width: 680px;
+}
