@@ -14,37 +14,37 @@ Dengan memahami materi tersebut sebelumnya, kamu akan lebih siap dan cepat dalam
 
 ## User Stories
 
-### 1. Main Element
+### 1. `<main>` Element
 
-- Anda harus memiliki elemen `<main>` dengan ID yang sesuai, yaitu "main", yang berisi semua elemen lainnya.
+- Anda harus memiliki elemen `<main>` dengan ID yang sesuai, yaitu `<main id="main">`, yang berisi semua elemen lainnya.
 
 ### 2. Judul
 
-- Anda harus melihat elemen dengan ID "title", yang berisi sebuah string (teks) yang menggambarkan subjek dari halaman tribute (misalnya, "Dr. Norman Borlaug").
+- Anda harus melihat elemen dengan ID `<h1 id="title">`, yang berisi sebuah string (teks) yang menggambarkan subjek dari halaman tribute (misalnya, "Dr. Norman Borlaug").
 
 ### 3. Gambar
 
-- Anda harus melihat sebuah elemen `<figure>` atau `<div>` dengan ID "img-div".
+- Anda harus melihat sebuah elemen `<figure>` atau `<div>` dengan ID `<div id="img-div">`.
 
 ### 4. Elemen Gambar
 
-- Di dalam elemen "#img-div", Anda harus melihat elemen `<img>` dengan ID yang sesuai, yaitu "image".
+- Di dalam elemen `<div id="img-div">`, Anda harus melihat elemen `<img>` dengan ID yang sesuai, yaitu `<img id="image">`.
 
 ### 5. Keterangan Gambar
 
-- Di dalam elemen "#img-div", Anda harus melihat elemen dengan ID yang sesuai, yaitu "img-caption", yang berisi konten teks yang menjelaskan gambar yang ditampilkan di "#img-div".
+- Di dalam elemen `<div id="img-div">`, Anda harus melihat elemen dengan ID yang sesuai, yaitu `<p id="img-caption">`, yang berisi konten teks yang menjelaskan gambar yang ditampilkan di `<div id="img-div">`.
 
 ### 6. Informasi Tribute
 
-- Anda harus melihat sebuah elemen dengan ID yang sesuai, yaitu "tribute-info", yang berisi konten teks yang menjelaskan subjek dari halaman tribute.
+- Anda harus melihat sebuah elemen dengan ID yang sesuai, yaitu `<p id="tribute-info">`, yang berisi konten teks yang menjelaskan subjek dari halaman tribute.
 
 ### 7. Tautan Tribute
 
-- Anda harus melihat sebuah elemen `<a>` dengan ID yang sesuai, yaitu "tribute-link", yang menghubungkan ke situs eksternal yang berisi informasi tambahan tentang subjek dari halaman tribute. **TIP**: Anda harus memberikan atribut `target` pada elemen ini dan mengaturnya sebagai `_blank` agar tautan dibuka dalam tab baru.
+- Anda harus melihat sebuah elemen `<a>` dengan ID yang sesuai, yaitu `<a id="tribute-link">`, yang menghubungkan ke situs eksternal yang berisi informasi tambahan tentang subjek dari halaman tribute. **TIP**: Anda harus memberikan atribut `target` pada elemen ini dan mengaturnya sebagai `_blank` agar tautan dibuka dalam tab baru.
 
 ### 8. Responsif Gambar
 
-- Gambar dengan ID "image" harus menggunakan properti `max-width` dan `height` untuk menyesuaikan ukurannya secara responsif, relatif terhadap lebar elemen induknya, tanpa melebihi ukuran aslinya.
+- Gambar dengan ID `<img id="image">` harus menggunakan properti `max-width` dan `height` untuk menyesuaikan ukurannya secara responsif, relatif terhadap lebar elemen induknya, tanpa melebihi ukuran aslinya.
 
 ### 9. Posisi Gambar
 
