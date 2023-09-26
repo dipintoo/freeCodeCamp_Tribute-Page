@@ -52,7 +52,7 @@ Dengan memahami materi tersebut sebelumnya, kamu akan lebih siap dan cepat dalam
 
 ## Coding dan Testing
 
-Kamu bisa ngoding dan melakukan testing langsung di [freecodecamp.org](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page).
+Kamu bisa ngoding dan melakukan testing langsung di https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page.
 
 ## Contoh Proyek
 
