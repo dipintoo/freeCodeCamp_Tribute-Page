@@ -42,7 +42,7 @@ Dengan memahami materi tersebut sebelumnya, kamu akan lebih siap dan cepat dalam
 
 - Anda harus membuat sebuah elemen `<a>` dengan ID yang sesuai, yaitu `<a id="tribute-link">`, yang menghubungkan ke situs eksternal yang berisi informasi tambahan tentang subjek dari halaman tribute. **TIP**: Anda harus memberikan atribut `target` pada elemen ini dan mengaturnya sebagai `_blank` agar tautan dibuka dalam tab baru.
 
-### 8. Responsif Gambar
+### 8. Gambar Responsif
 
 - Gambar dengan ID `<img id="image">` harus menggunakan properti `max-width` dan `height` untuk menyesuaikan ukurannya secara responsif, relatif terhadap lebar elemen induknya, tanpa melebihi ukuran aslinya.
 
