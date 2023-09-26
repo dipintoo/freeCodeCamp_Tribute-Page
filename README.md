@@ -1,4 +1,4 @@
-# 2/5 Tribute Page Project
+# [2/5] Tribute Page Project
 
 Selamat datang di Tribute Page Project! Project ini harus memenuhi sejumlah User Stories yang telah ditentukan. Kamu bisa mengikuti langkah-langkah di bawah ini untuk memahami tugas dan tujuan dari project ini.
 
