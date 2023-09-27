@@ -1,7 +1,6 @@
 # [2/5] Tribute Page Project
 
-**Selamat datang di Tribute Page Project!**  
-Project ini adalah yang kedua dari lima project yang harus kamu selesaikan dan lolos pengujian untuk meraih sertifikasi [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) dari freeCodeCamp!. Project ini harus memenuhi sejumlah User Stories yang telah ditentukan. Kamu bisa mengikuti langkah-langkah di bawah ini untuk memahami tugas dan tujuan dari project ini.
+**Selamat datang di Tribute Page Project!**. Project ini adalah yang kedua dari lima project yang harus kamu selesaikan dan lolos pengujian untuk meraih sertifikasi [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) dari freeCodeCamp!. Project ini harus memenuhi sejumlah User Stories yang telah ditentukan. Kamu bisa mengikuti langkah-langkah di bawah ini untuk memahami tugas dan tujuan dari project ini.
 
 ### Persiapan
 
