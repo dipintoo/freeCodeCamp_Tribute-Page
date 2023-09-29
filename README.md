@@ -1,4 +1,4 @@
-# [2/5] Tribute Page Project
+# [2/5] Tribute Page
 
 **SELAMAT!** kamu sudah berhasil menyelesaikan project pertama [Survey Form](https://github.com/dipintoo/freeCodeCamp_Survey-Form). Sekarang kita lanjut ke project ketiga dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) dari freeCodeCamp!
 
